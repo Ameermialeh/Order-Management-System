@@ -14,12 +14,19 @@ The system was designed based on the company's actual workflow and requirements.
 
 # ✨ Features
 👤 Customer information management
+
 🧾 Order and bill data entry
+
 📋 Detailed order information
+
 🔢 Automatic bill generation
+
 📄 Professional A4 bill formatting
+
 👀 Bill preview before printing
+
 ✅ Data validation
+
 🖥️ User-friendly desktop interface
 
 🔄 System Workflow
