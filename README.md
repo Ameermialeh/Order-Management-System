@@ -36,13 +36,12 @@ The system was designed based on the company's actual workflow and requirements.
            │
            
            ▼
-           
-  Enter Customer Data
+    Enter Customer Data
   
            │
            ▼
            
-   Enter Order Details
+    Enter Order Details
    
            │
            ▼
