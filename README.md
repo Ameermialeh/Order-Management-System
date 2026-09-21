@@ -60,9 +60,13 @@ The system was designed based on the company's actual workflow and requirements.
       
 # 🛠️ Technologies
 C#
+
 .NET
+
 Desktop Application
+
 A4 Document Generation
+
 Printing
 
 # 👨‍💻 My Role
@@ -70,13 +74,21 @@ Printing
 I was responsible for the development of the application, including:
 
 Designing the application structure
+
 Developing the application using C#
+
 Implementing customer and order management
+
 Implementing bill generation
+
 Designing the A4 bill layout
+
 Implementing the printing functionality
+
 Integrating and managing application data
+
 Testing and debugging
+
 Adapting the system to the company's real-world requirements
 
 # 📸 Screenshots
