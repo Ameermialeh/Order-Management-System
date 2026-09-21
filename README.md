@@ -98,18 +98,13 @@ Screenshots are provided to demonstrate the application's interface and function
 Sensitive company, customer, and order information has been removed or anonymized.
 
 Main Interface
-
-
-
+![alt text](https://github.com/Ameermialeh/Order-Management-System/blob/main/screenshots/Main%20Interface.png)
 
 Order Review
-
-
-
+![alt text](https://github.com/Ameermialeh/Order-Management-System/blob/main/screenshots/Order%20Review.png)
 
 Bill Preview
-
-
+![alt text](https://github.com/Ameermialeh/Order-Management-System/blob/main/screenshots/Bill%20Preview.jpg)
 
 
 # 🔐 Source Code
