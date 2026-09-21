@@ -29,22 +29,34 @@ The system was designed based on the company's actual workflow and requirements.
 
 🖥️ User-friendly desktop interface
 
-🔄 System Workflow
+# 🔄 System Workflow
+
         Manager
+        
            │
+           
            ▼
+           
   Enter Customer Data
+  
            │
            ▼
+           
    Enter Order Details
+   
            │
            ▼
+           
      Generate Bill
+     
            │
            ▼
+           
      Preview Bill
+     
            │
            ▼
+           
       Print on A4
       
 # 🛠️ Technologies
